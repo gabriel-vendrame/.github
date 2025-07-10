@@ -1,6 +1,10 @@
-# Pull Request
+# Tipo da PR (marque todas as opções aplicáveis)
 
-## Tipo da PR (marque todas as opções aplicáveis)
+<!-- 
+    é possível marcar a checkbox após a abertura da PR
+    caso queira marcar antes da criação escreva x dentro
+    dos colchetes.
+-->
 
 - [ ] Feature
 - [ ] Fix
@@ -8,10 +12,10 @@
 - [ ] Docs
 - [ ] Otimização
 
-## Descrição
+# Descrição
 
-Breve descrição sobre o que a PR faz
+<!-- Breve descrição sobre o que sua PR faz -->
 
-## Card/Task relacionada
+# Card/Task relacionada
 
-Link do card no trello associado a PR
+<!-- Link do card no trello associado a sua PR -->
